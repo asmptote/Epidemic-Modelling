@@ -2,4 +2,7 @@
 notebook
 networkx
 pandas
+matplotlib
+graphviz
+plotly
 eon
