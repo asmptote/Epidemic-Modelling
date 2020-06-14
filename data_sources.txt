@@ -1,2 +1,6 @@
 John Hopkins University
 https://github.com/CSSEGISandData/COVID-19
+SafeGraph COVID 19 data consortium
+https://www.safegraph.com/covid-19-data-consortium
+OpenCOVID-19
+https://github.com/opencovid-19/main
